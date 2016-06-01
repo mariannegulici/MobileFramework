@@ -1,0 +1,7 @@
+:host md-content {
+    height: 1000px;
+}
+
+button.fab-button{
+    position: fixed;
+}
